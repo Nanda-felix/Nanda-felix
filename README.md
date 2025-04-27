@@ -17,3 +17,4 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
+![Snake animation](https://raw.githubusercontent.com/Nanda-felix/Nanda-felix/output/github-contribution-grid-snake-dark.svg)
