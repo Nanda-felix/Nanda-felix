@@ -4,6 +4,7 @@
   <a href="https://github.com/Nanda-felix">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nanda-felix&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanda-felix&theme=cobalt&hide_border=false&layout=compact"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nanda-felix&theme=cobalt">
   </a>
 </div>
 
@@ -18,4 +19,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
-![Snake animation](https://raw.githubusercontent.com/Nanda-felix/Nanda-felix/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nanda-felix/Nanda-felix/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div>
+
