@@ -1,4 +1,4 @@
-<h1 align="center">Olá, tudo bem? Eu sou a Fernanda, estudante de Eng. da Computação.</h1>
+<h1 align="center">Hello, tudo bem? Eu sou a Fernanda, estudante de Eng. da Computação.</h1>
 
 <div align="center">
   <a href="https://github.com/Nanda-felix">
